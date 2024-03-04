@@ -3,14 +3,14 @@
     
 }
 body{
-    background-color:#ffffff;
+    background-color:#ac9836;
 }
 .about{
     margin: 30px;
-    border: 15px rgb(0, 0, 0);
+    border: 15px rgb(24, 27, 25);
     border-radius: 30px;
-    border-style:inset;
-    background-color: #c5c5c8;
+    border-style: inset;
+    background-color: #7bb3a3;
     padding: 1%;
 }
 .contactsection,
@@ -18,8 +18,8 @@ body{
     height:15rem;
     width: 50%;
     margin: 30px;
-    border: 15px rgb(0, 0, 0);
-    background-color: #c5c5c8;
+    border: 15px rgb(24, 27, 25);
+    background-color: #6dc98d;
     border-radius: 30px;
     border-style: inset;
     padding: 1%;
